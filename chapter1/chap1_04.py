@@ -63,3 +63,6 @@ print((2+1)*3/2%2) #output is 0.5
 print(4.5%2) #output = 0.5
 #first precedence is parenthes which is sum,since *,/ and % have same
 # ..precedence, associative rule is applied which is left to right.
+
+print(2**3**2) #exponent associative rule is right to left.
+#2**9 = 512
