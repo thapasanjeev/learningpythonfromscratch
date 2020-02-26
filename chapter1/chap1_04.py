@@ -29,6 +29,9 @@ print(9/3) #floating point division means it gives answer in decimals.
 print(9//3) # integer division with no decimals.
 print(4%3)
 print(2**2)
+print(4**0.5) #finding square roots in floating point
+# round function
+print(round(2**0.5,4)) #rounds square of 2 to 4 digits
 
 # output
 # 4
@@ -38,5 +41,17 @@ print(2**2)
 # 3
 # 1
 # 4
+# 2
+#1.4142
 
 
+# multiple operater statement calculation orders
+print(2**2/2*6-4*(3-4/2))
+# output: 8.0 
+# precedence rule and associative rule 
+# precedence rule 
+# highest to lowest
+# parenthesis- 1
+# exponent - 2 associative right to left direction
+# *,/,//,% -3 associative left to right direction
+# +,- = associative left to right direction
