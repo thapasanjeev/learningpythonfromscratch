@@ -55,3 +55,11 @@ print(2**2/2*6-4*(3-4/2))
 # exponent - 2 associative right to left direction
 # *,/,//,% -3 associative left to right direction
 # +,- = associative left to right direction
+
+print((2+1)*2) #output is 6
+# first parenthes which is sum and then multiplication 
+print((2+1)*3/2%2) #output is 0.5
+# 3 * 3 /2%2 = 9/2%2 = 4.5%2 = 0.5
+print(4.5%2) #output = 0.5
+#first precedence is parenthes which is sum,since *,/ and % have same
+# ..precedence, associative rule is applied which is left to right.
