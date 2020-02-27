@@ -19,6 +19,6 @@ number2 = 98980
 float_number= 8.987
 #data type can be changed by reassigning value to a variable.
 name = 456
-#such changing one data type to another data type is known as dynamic programmin language
+#such changing one data type to another data type is known as dynamic programming language
 print(name) #output: 456
 
