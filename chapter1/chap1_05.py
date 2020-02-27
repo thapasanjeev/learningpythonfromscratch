@@ -1,6 +1,6 @@
 # variable
 
-# variable simply stores data. data is assigned in variable.
+# variable simply stores data. data is assigned to a variable.
 # example.
 number1 = 3 #here the value 3 is assigned to number1. 
 print(number1) #output: 3
