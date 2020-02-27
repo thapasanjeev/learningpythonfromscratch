@@ -1,3 +1,5 @@
+# chapter 1 lesson 5
+
 # variable
 
 # variable simply stores data. data is assigned to a variable.
