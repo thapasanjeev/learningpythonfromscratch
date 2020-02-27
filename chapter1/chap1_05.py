@@ -21,3 +21,4 @@ float_number= 8.987
 name = 456
 #such changing one data type to another data type is known as dynamic programmin language
 print(name) #output: 456
+
