@@ -22,3 +22,12 @@ name = 456
 #such changing one data type to another data type is known as dynamic programming language
 print(name) #output: 456
 
+# rules of naming variables
+# variables names cannot start with a number error: 1num
+#variables can start with letters,underscore
+#variables should not contain any special characters like dollar,percentage etc..
+
+# python naming convention..are used for easy to read but not necessary to name.
+# most python naming convention are written in first_name format.
+# first_and_last.
+
