@@ -21,3 +21,9 @@ Chapter One contents
    - python as calculator using operator inside print function
    - operators in python
    - precedence and associative rule
+
+05:
+   - Variables
+   - Rules of naming variables
+   - Naming convention
+   
